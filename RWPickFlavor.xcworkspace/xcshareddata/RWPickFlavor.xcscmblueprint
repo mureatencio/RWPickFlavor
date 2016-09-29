@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0E7E892163493DA2BB0D7AF52D3556FCD681BF0A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "186B60AA7644EA003C70619A78E89DCE40C22B8D" : 0,
+    "0E7E892163493DA2BB0D7AF52D3556FCD681BF0A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A76E6EC8-1774-4378-9D48-F418D26BD15E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "186B60AA7644EA003C70619A78E89DCE40C22B8D" : "",
+    "0E7E892163493DA2BB0D7AF52D3556FCD681BF0A" : "RWPickFlavor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RWPickFlavor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RWPickFlavor.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JRG-Developer\/RWPickFlavor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E7E892163493DA2BB0D7AF52D3556FCD681BF0A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JRG-Developer\/AutoLayoutCells.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "186B60AA7644EA003C70619A78E89DCE40C22B8D"
+    }
+  ]
+}
